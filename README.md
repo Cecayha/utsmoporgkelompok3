@@ -1,5 +1,10 @@
-# utsmoporgkelompok3
+# kelompok3mykonos
 
+mobileprogramming -  semester 5 - uts
+si-c 24
+kelompok3:
+raden, hillary, lateef
+75   ,  86   , 145
 A new Flutter project.
 
 ## Getting Started
