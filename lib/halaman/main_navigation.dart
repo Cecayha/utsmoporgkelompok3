@@ -32,8 +32,8 @@ class _MainNavigationState extends State<MainNavigation> {
   Widget build(BuildContext context) {
     final List<Widget> pages = [
       BerandaPage(onPindahKeKeranjang: () => _pindahTab(2)),
-      const WishlistPage(),
-      const KeranjangPage(),
+       WishlistPage(),
+       KeranjangPage(),
       const ProfilPage(),
     ];
 

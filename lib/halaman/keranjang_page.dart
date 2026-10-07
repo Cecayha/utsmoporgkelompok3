@@ -171,7 +171,7 @@ class _KeranjangPageState extends State<KeranjangPage> {
             ),
           ),
 
-          // Ringkasan Pembayaran & Tombol Checkout
+          // Ringkasan Pembayaran dan Tombol Checkout
           Container(
             padding: const EdgeInsets.all(16),
             decoration: BoxDecoration(
